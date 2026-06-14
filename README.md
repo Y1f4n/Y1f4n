@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bet4it&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+
+- 🌱 I’m currently learning Reverse Engineering, Large Language Models, Program Analysis.
+- 🎓 PhD candidate in Information Security at the National University of Singapore.
+- 📫 How to reach me: GeorgiaMorenoqiv@artlover.com
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bet4it&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
